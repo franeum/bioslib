@@ -1,4 +1,5 @@
 include(${CMAKE_CURRENT_SOURCE_DIR}/../../max-sdk-base/script/max-pretarget.cmake)
+set(CMAKE_OSX_ARCHITECTURES x86_64;arm64)
 
 #############################################################
 # MAX EXTERNAL
