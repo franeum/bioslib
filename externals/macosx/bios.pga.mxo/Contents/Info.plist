@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>18G9323</string>
+	<string>22G621</string>
 	<key>C74ObjectProperties</key>
 	<dict>
 		<key>c74excludefromcollectives</key>
@@ -27,29 +27,27 @@
 	<array>
 		<string>MacOSX</string>
 	</array>
-	<key>CFBundleVersion</key>
-	<string></string>
 	<key>CSResourcesFileMapped</key>
 	<true/>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>11C505</string>
+	<string></string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>GM</string>
+	<string>14.2</string>
 	<key>DTSDKBuild</key>
-	<string>19B90</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>macosx10.15</string>
+	<string>macosx14.2</string>
 	<key>DTXcode</key>
-	<string>1131</string>
+	<string>1520</string>
 	<key>DTXcodeBuild</key>
-	<string>11C505</string>
+	<string>15C500b</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.11</string>
 	<key>LSRequiresCarbon</key>
 	<true/>
-	<key>NSHumanReadableCopyright</key>
-	<string></string>
 </dict>
 </plist>
